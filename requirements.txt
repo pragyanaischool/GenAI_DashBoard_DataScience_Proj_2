@@ -5,3 +5,4 @@ numpy
 plotly
 wordcloud
 streamlit
+mysql-connector-python
