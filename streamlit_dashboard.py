@@ -4,7 +4,7 @@ import streamlit as st
 import altair as alt
 from wordcloud import WordCloud
 import plotly.express as px
-from add_data import db_execute_fetch
+from insert_data import db_execute_fetch
 
 st.set_page_config('Dashboard', layout="wide")
 st.title("Topic Modeling and Sentimet Anlysis")
