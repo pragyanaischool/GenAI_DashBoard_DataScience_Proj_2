@@ -1,6 +1,6 @@
 pandas
-mysql_connector_repackaged==0.3.1
-altair==4.1.0
+mysql_connector_repackaged
+altair
 numpy
 plotly
 wordcloud
