@@ -1,8 +1,7 @@
 pandas
-mysql_connector_repackaged
+mysql_connector_repackaged==9.1.0
 altair
 numpy
 plotly
 wordcloud
 streamlit
-version
