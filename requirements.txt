@@ -1,5 +1,5 @@
 pandas
-mysql_connector_repackaged==9.1.0
+mysql_connector_repackaged
 altair
 numpy
 plotly
