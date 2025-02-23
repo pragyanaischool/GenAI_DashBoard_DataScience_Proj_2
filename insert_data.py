@@ -3,8 +3,8 @@ import os
 import pandas as pd
 import string
 import re
-import mysql.connector as mysql
-from mysql.connector import Error
+#import mysql.connector as mysql
+#from mysql.connector import Error
 
 # database class for inserting the data
 class database:
